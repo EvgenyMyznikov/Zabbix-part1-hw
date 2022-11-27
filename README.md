@@ -1,8 +1,7 @@
 # Домашнее задание к занятию "`9.2.Zabbix.Часть 1`" - `Myznikov Evgeny`
 
 ### Задание 1
-![Zabbix_Server](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/Zabbix-part1-2022-11-20_164856.png)
+![Zabbix_Server](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Zabbix-part1-2022-11-20%20164856.png?raw=true)
 Command list:
 sudo apt install postgresql
 sudo wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bdebian11_all.deb
@@ -20,7 +19,7 @@ sudo systemctl restart zabbix-agent2
 sudo systemctl enable zabbix-agent2
 
 ### Задание 2
-![Hosts](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Configuration-2022-11-24%20125938.png?raw=true)`
+![Hosts](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Configuration-2022-11-24%20125938.png?raw=true)
 
 ![Latest_data](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/LastDataHosts-2022-11-24%20134436.png?raw=true)
 
