@@ -2,8 +2,7 @@
 
 ### Задание 1
 ![Zabbix_Server](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/Zabbix-part1-2022-11-20_164856.png)`
-
+Zabbix-part1-hw/blob/main/img/Zabbix-part1-2022-11-20_164856.png)
 Command list:
 sudo apt install postgresql
 sudo wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bdebian11_all.deb
@@ -21,17 +20,13 @@ sudo systemctl restart zabbix-agent2
 sudo systemctl enable zabbix-agent2
 
 ### Задание 2
-![Hosts](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/Configuration-2022-11-24_125938.png)`
+![Hosts](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Configuration-2022-11-24%20125938.png?raw=true)`
 
-![Latest_data](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/LastDataHosts-2022-11-24_134436.png)`
+![Latest_data](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/LastDataHosts-2022-11-24%20134436.png?raw=true)
 
-![zabbix_agent_log_host1](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/Host1_log-2022-11-24_180302.png)`
+![zabbix_agent_log_host1](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Host1_log-%202022-11-24%20180302.png?raw=true)
 
-![zabbix_agent_log_host1](https://github.com/EvgenyMyznikov/
-Zabbix-part1-hw/blob/main/img/Host2_log-2022-11-24_180657.png)`
+![zabbix_agent_log_host2](https://github.com/EvgenyMyznikov/Zabbix-part1-hw/blob/main/img/Host2_log-2022-11-24%20180657.png?raw=true)
 
 Command list:
 sudo wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4%2Bubuntu22.04_all.deb
